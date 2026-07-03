@@ -67,7 +67,7 @@ La documentación técnica completa está disponible en:
 
 ## Configuración VPN
 
-El archivo de configuración completo está disponible en [`Policy-based`](https://claude.ai/chat/Policy-based). Bloques clave:
+El archivo de configuración completo está disponible en [`Policy-based`](Policy-based). Bloques clave:
 
 **IKEv2 proposal + policy + keyring + profile:**
 
