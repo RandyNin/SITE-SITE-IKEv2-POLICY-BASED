@@ -24,7 +24,7 @@ SITE-SITE-IKEv2-POLICY-BASED/
 │   ├── siteb-ikev2-sa.png
 │   ├── sitea-ipsec-sa.png
 │   └── siteb-ipsec-sa.png
-├── Policy-based
+├── Policy-Based
 ├── Documentación Tecnica Profesional VPN Site-to-Site - IPSec IKEv2 - Policy-Based (Randy Nin -- 2025-0660).pdf
 └── README.md
 ```
